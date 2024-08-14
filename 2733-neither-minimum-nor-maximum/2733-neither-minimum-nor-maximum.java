@@ -2,7 +2,7 @@ class Solution {
     public int findNonMinOrMax(int[] nums) {
         Arrays.sort(nums);
         int n=0;
-        if(nums.length==2){
+        if(nums.length<=2){
             n+=-1;
         }
         else{
