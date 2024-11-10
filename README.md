@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/0136-single-number) |
+| [1044-find-common-characters](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 ## Bit Manipulation
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1044-find-common-characters](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 ## Sorting
 |  |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1217-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1044-find-common-characters) |
 <!---LeetCode Topics End-->
