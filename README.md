@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/GuruNiranjan0606/Leetcode-Problems/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
